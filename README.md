@@ -1,4 +1,4 @@
-# CNN-Mnist-classification-and-LSTM-melody-generation
+# EPFL: Artificial neural networks (CS-456) 
 
 This repository presents two miniprojects done at EPFL. 
 
